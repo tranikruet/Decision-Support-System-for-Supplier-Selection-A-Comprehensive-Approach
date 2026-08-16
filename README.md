@@ -6,7 +6,7 @@ implementation used in the accompanying paper, including data, computation, and
 visualization modules.
 
 ## Paper
-Shah Md Tasrifur Rahim, Syed Rizwanul Haque, Shahed Mahmud —
+Shah Md Tasrifur Rahim, Shahed Mahmud —
 *Decision Support System for Supplier Selection: A Comprehensive Approach*
 
 ## What this does
